@@ -15,3 +15,5 @@ EXPOSE 8080
 
 # Comando para rodar a aplicação
 CMD ["python", "apiclash.py"]
+
+CMD ["flyctl launch plan propose --manifest-path /tmp/manifest.json --region gig --copy-config"]
