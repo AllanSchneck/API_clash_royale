@@ -1,0 +1,13 @@
+ID,Carta,Elixir,Vida,Dano,tempo por invocacao,Tipo,Raridade,Especial
+1,Cabana de Barbaros,7,550,/,15s,Construcao,Rara,Invoca barbaros com os atributos ao mesmo nivel da construcao
+2,Torre de Bombas,5,640,105,1.8s,Construcao,Rara,Dropa uma bomba ao morrer causando 105 de dano
+3,Canhao,3,322,83,0.9s,Construcao,Comum
+4,Coletor de Elixir,6,505,0,12s,Construcao,Rara,Coleta Elixir
+5,Fornalha,4,400,98,5s,Construcao,Rara,Faz espiritos de fogo 2 por invocacao
+6,Jaula de Gobiln,4,368,159,20s,Construcao,Rara,Invoca apenas um goblin com 510 pontos de vida
+7,Cabana de Goblins,5,400,38,11.5s,Construcao,Rara,Invoca gobins lanceiros
+8,Torre Inferno,825,?,27.5s,Construcao,Rara,Dano escalavel por 3 estagios de 20 | 75 | 400
+9,Morteiro,4,535,104,5s,Construcao,Comum,lanca pedra dando dano em area
+10,Tesla,4,450,86,1.1s,Construcao,Comum,Reinicia ataques carregados 
+11,Lapide,3,250,38,4s,Construcao,Rara,Invoca esqueletos
+12,X-besta,6,1.000,26,0.3s,Construcao,Epica

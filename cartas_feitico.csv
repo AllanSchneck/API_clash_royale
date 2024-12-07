@@ -1,0 +1,20 @@
+ID,Carta,Elixir,Raio,Dano_em_area,Dano_a_torre,Tipo,Raridade,Especial
+1,Bola de Fogo,4,2.5,325,98,Feitico,Rara,/
+2,Choque,2,2.5,75,23,Feitico,Comum,Duração do Atordoamento 0.5 seg
+3,Flechas,3,4,48 x3 (144),12 x3 (36),Feitico,Comum,/
+4,Barril de Barbaro,2,2.6,151,120,Feitico,Epica,após quebrar ela solta um Barbaro
+5,Clone,3,3,/,/,Feitico,Epica,Clona as tropas invocadas com 1 ponto de hp porem mantendo o dano
+6,Terremoto,3,3.5,39 x3 (117),26 x3 (78),Feitico,Rara,Dura por 3 segundos com 136 x3 (408) de dano e construcao
+7,Gelo,4,3,72,22,Feitico,Epica,Congela todos os tipos de carta exceto Feitico por 3 seg
+8,Bola de Neve,2,2.5,70,21,Feitico,Comum,Deixa um desaceleracao nas tropas por 3 seg deixaod 35% mais lentas
+9,Barril de Goblin,3,1.5,75s,68s,Feitico,Epica,Solta três goblins após quebrer dano segundo por globin
+10,Cemiterio,5,4,67s,67s,Feitico,Lendaria,Invoca esqueletos a cada 2.2s no total 13
+11,Cura,1,4,/,/,Feitico,Rara,Dura 2s curando as tropas 37 de vida por segundo
+12,Relampago,6,3.5,660,198,Feitico,Epica,Dispara 3 trovoes com o mesmo dano
+13,Espelho,1+ que carta espelhada,/,/,/,Feitico,Epica,Espelha a ultima carta utilizada
+14,Veneno,4,3.5,57 x8 (456),15 x8 (120),Feitico,Epica,Causa envenenamento por 8s causando lentidão de 15%
+15,Furia,2,3,120,36,Feitico,Epica,Efeito fúria causa aceleração de 35% nas tropas e Construcoes
+16,Foguete,6,2,700,175,Feitico,Rara,/
+17,Encomenda Real,3,171,40s,Feitico,Comum,Dropa um guarda real,/
+18,Tronco,2,3.9,240,48,Feitico,Lendaria,/
+19,Tornado,3,5.5,53 x2 (106),19 x2 (38),Feitico,Epica,Conjura um Tornado onde todas as tropas ficam em seu centro por 1.05s
