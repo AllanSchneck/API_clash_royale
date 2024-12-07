@@ -1,19 +1,20 @@
-# Use uma imagem base oficial do Python
+# Use uma imagem base do Python
 FROM python:3.9-slim
 
-# Defina o diretório de trabalho dentro do container
+# Defina o diretório de trabalho no contêiner
 WORKDIR /app
 
-# Copie os arquivos da aplicação para dentro do container
-COPY . .
+# Copie o arquivo requirements.txt para o contêiner
+COPY requirements.txt .
 
 # Instale as dependências
-RUN pip install -r requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
 
-# Exponha a porta necessária (se houver)
-EXPOSE 8080
+# Copie todo o código e arquivos necessários para o contêiner
+COPY . .
 
-# Comando para rodar a aplicação
-CMD ["python", "apiclash.py"]
+# Exponha a porta que o Flask usará
+EXPOSE 5000
 
-CMD ["flyctl launch plan propose --manifest-path /tmp/manifest.json --region gig --copy-config"]
+# Comando para rodar a aplicação Flask
+CMD ["python", "app.py"]
