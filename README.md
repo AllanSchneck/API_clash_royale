@@ -21,9 +21,6 @@ Procfile
 web: gunicorn app:app
 
 
-
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
-
 ## ⚙️ Executando os testes
 
 A api tem apenas três endpoint do tipo get
