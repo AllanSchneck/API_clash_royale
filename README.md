@@ -26,11 +26,6 @@ Procfile
 web: gunicorn app:app
 
 
-E repita:
-
-```
-Até finalizar
-```
 
 Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
 
