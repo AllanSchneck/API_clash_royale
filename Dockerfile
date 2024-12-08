@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 5000
 
 # Comando para rodar a aplicação Flask
-CMD ["python", "app.py"]
+CMD ["python", "apiclash.py"]

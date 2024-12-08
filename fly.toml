@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for meu-projeto-flask-divine-glitter-7453 on 2024-12-07T22:36:05-03:00
+# fly.toml app configuration file generated for meu-projeto-flask-holy-tree-7750 on 2024-12-07T23:01:43-03:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'meu-projeto-flask-divine-glitter-7453'
+app = 'meu-projeto-flask-holy-tree-7750'
 primary_region = 'gig'
 
 [build]
