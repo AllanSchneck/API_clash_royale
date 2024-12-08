@@ -2,7 +2,7 @@
 
 ## 🚀 
 
-Esta é uma api de clash royale com endpoints get que contém detalhes mínimos sobre cada carta de clash royale
+Este é um projeto de api clash royale com endpoints get que contém detalhes mínimos sobre cada carta de clash royale
 somente para estudos
 
 ### 📋 Pré-requisitos
@@ -41,7 +41,6 @@ criei desta forma por conta que assim eu consigo organizar as tropas pelo tipo e
 ### 🔩 Analise os testes de ponta a ponta
 
 Estes testes consultam os pontos get podendo inspecionar os erros pelo javascript ou pelo render
-vo
 
 ## 🛠️ Construído com Python
 
@@ -55,7 +54,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 
 ## ✒️ Autor
 
- [autor](https://github.com/AllanSchneck)
+ [Allan Richard da Silva Schneck](https://github.com/AllanSchneck)
 
 
 ## 📄 Licença
