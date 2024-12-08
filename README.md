@@ -13,11 +13,6 @@ pandas==2.1.0
 gunicorn==20.1.0
 numpy==1.26.4
 
-
-```
-Dar exemplos
-```
-
 ### 🔧 Instalação
 Utilizei render.com um plataforma gratuita e junto com um documento Procfile consegui inicializar minha aplicação flask
 
