@@ -70,8 +70,8 @@ def feitico():
             'carta': str(tabela['Carta'][i]),
             'elixir': str(tabela['Elixir'][i]),
             'raio': str(tabela['Raio'][i]),
-            'dano_em_area': str(tabela['Dano em area'][i]),
-            'dano_a_torre': str(tabela['Dano a torre'][i]),
+            'dano_em_area': str(tabela['Dano_em_area'][i]),
+            'dano_a_torre': str(tabela['Dano_a_torre'][i]),
             'tipo': str(tabela['Tipo'][i]),
             'raridade': str(tabela['Raridade'][i]),
             'especial': str(tabela['Especial'][i])
