@@ -54,5 +54,5 @@ Mencione as ferramentas que você usou para criar seu projeto
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md]([https://github.com/usuario/projeto/licenca](https://github.com/AllanSchneck/API_clash_royale/blob/API_clashV1.01/LICENSE.txt)) para detalhes.
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE](https://github.com/AllanSchneck/API_clash_royale/blob/API_clashV1.01/LICENSE.txt)) para detalhes.
 
