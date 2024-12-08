@@ -1,0 +1,10 @@
+[project]
+name = "meu_projeto_flask"
+version = "0.1.0"
+description = "Uma API de clash Royale"
+authors = [{name = "Allan Richard da Silva Schneck", email = "allanrichard826@gmail.com"}]
+dependencies = [
+    "flask",          # Para o framework Flask
+    "flask-cors",     # Para habilitar CORS (Cross-Origin Resource Sharing)
+    "pandas"          # Para trabalhar com CSV e manipulação de dados
+]
