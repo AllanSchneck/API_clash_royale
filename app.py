@@ -85,7 +85,7 @@ def feitico():
 def contatos():
     return "Esse são os contatos"
 
-
-app.run(host='0.0.0.0', port=8080)
+if __name__ == '__main__':
+    app.run()
 
 #caso vocÊ estiver rodando em replit você precisa dentro do parenteses do desta maneira "app.run(host='0.0.0.0')"
