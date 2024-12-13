@@ -14,7 +14,7 @@ gunicorn==20.1.0
 numpy==1.26.4
 
 ### 🔧 Instalação
-Utilizei render.com um plataforma gratuita e junto com um documento Procfile consegui inicializar minha aplicação flask
+Utilizei render.com uma plataforma gratuita e junto com um documento Procfile consegui inicializar minha aplicação flask
 
 exemplos
 Procfile
